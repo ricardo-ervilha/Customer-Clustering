@@ -97,7 +97,7 @@ Outras leituras de negócio extraídas da segmentação:
 
 ```bash
 # 1. Clonar
-git clone <url-do-repositorio>
+git clone https://github.com/ricardo-ervilha/Customer-Clustering.git
 cd customer-clustering
 
 # 2. Instalar as dependências
